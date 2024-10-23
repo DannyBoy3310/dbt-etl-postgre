@@ -1,0 +1,12 @@
+
+    
+    
+    truncate table "postgres"."cde"."ProductCategories";
+    -- dbt seed --
+    
+          insert into "postgres"."cde"."ProductCategories" ("PRODCATEGORYID", "CREATEDBY", "CREATEDAT") values
+          (%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s)
+      
+
+;
+  
