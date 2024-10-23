@@ -1,0 +1,41 @@
+PARTNERID,PARTNERROLE,EMAILADDRESS,PHONENUMBER,FAXNUMBER,WEBADDRESS,ADDRESSID,COMPANYNAME,LEGALFORM,CREATEDBY,CREATEDAT,CHANGEDBY,CHANGEDAT,CURRENCY
+100000000,2,maria.brown@all4bikes.com,98001550,,http://www.all4bikes.com,1000000034,All For Bikes,Inc.,10,20181003,10,20181003,USD
+100000001,2,bob.buyer@amazebikes.com,87848956,,http://www.amazebikes.com,1000000035,Amaze Bikes Inc,Inc.,13,20181003,13,20181003,USD
+100000002,2,victor.sanchez@arenasportusa.com,83145113,,http://www.arenasportusa.com,1000000036,Arena Sports Inc,Inc.,14,20181003,14,20181003,USD
+100000003,2,franklin.jones@atlantausa.com,88159807,,http://www.atlantausa.com,1000000037,Atlanta Corp Inc,Inc.,10,20181003,10,20181003,USD
+100000004,2,robert_brown@bikeworlds.com,94634751,,http://www.bikeworlds.com,1000000038,Bike World Inc,Inc.,4,20181003,4,20181003,USD
+100000005,1,bart.koenig@alphabikes.de,99730158,,http://www.alphabikes.de,1000000039,Alpha AG,AG,6,20181003,6,20181003,EUR
+100000006,1,sarah.schwind@buchungkreis-gmbh.de,97263814,,http://www.buchungkreis-gmbh.de,1000000040,BuchungsKreis 1010,GmbH,1,20181003,1,20181003,EUR
+100000007,1,mirjam.schmidt@trekcycle-berlin.de,84169786,,http://www.trekcycle-berlin.de,1000000041,Trek Cycle AG,AG,8,20181003,8,20181003,EUR
+100000008,2,saskia.sommer@tonabikes-ag.de,86237078,,http://www.tonabikes-ag.de,1000000042,Tona Bikes AG,AG,8,20181003,8,20181003,EUR
+100000009,2,dagmar.schulze@meinebicyclebayern.de,94279269,,http://www.meinebicyclebayern.de,1000000043,Meine Bicycle,GmbH,13,20181003,13,20181003,EUR
+100000010,1,jorgemontalban@avantegrande.co.uk,84472640,,http://www.avantegrande.co.uk,1000000044,Avante Grande Bikes,Ltd.,10,20181003,10,20181003,GBP
+100000011,2,johanna.esther@bikeon.co.uk,96782465,,http://www.bikeon.co.uk,1000000045,Bike On,Ltd.,13,20181003,13,20181003,GBP
+100000012,1,miguel.luengo@carefreecycles.com,99142659,,http://www.carefreecycles.com,1000000046,Carefree Cycles,Ltd.,1,20181003,1,20181003,GBP
+100000013,1,isabel.nemours@gnmbikes.co.uk,91162177,,http://www.gnmbikes.co.uk/,1000000047,G&M Bicycle,Ltd.,8,20181003,8,20181003,GBP
+100000014,2,igor.tarassow@keepcycling-london.co.uk,94336628,,http://www.keepcycling-london.co.uk,1000000048,Keep Cycling,Ltd.,6,20181003,6,20181003,GBP
+100000015,2,alexis.harper@icareaussie.com.au,89609066,,http://www.icareaussie.com.au,1000000049,iCare Australia,Inc.,14,20181003,14,20181003,AUD
+100000016,2,c.alfaro@ccsport.com.au,86411820,,http://www.ccsport.com.au,1000000050,CC SportWorld,Inc.,8,20181003,8,20181003,AUD
+100000017,2,sven.j@digipay.com.au,98484364,,http://www.digipay.com.au,1000000051,DigiPay,Inc.,5,20181003,5,20181003,AUD
+100000018,1,yoshiko.kakuji@techcyclecanberra.com.au,95458117,,http://www.techcyclecanberra.com.au,1000000052,TechCycle Canberra,Inc.,8,20181003,8,20181003,AUD
+100000019,2,alessio.galasso@ebike100.com,97700067,,http://www.ebike100.com,1000000053,eBike 100,Inc.,6,20181003,6,20181003,AUD
+100000020,1,sujaymishra@cycleworld.co.in,83263349,,http://www.cycleworld.co.in,1000000054,Cycle World,Ltd.,12,20181003,12,20181003,INR
+100000021,1,madhu.kumar@hitechsport.com,92721240,,http://www.hitechsport.com,1000000055,High Tech Sports Inc,Ltd.,8,20181003,8,20181003,INR
+100000022,1,pooja.singh@tiresonfire.co.in,91456097,,http://www.tiresonfire.co.in,1000000056,Tires On Fire,Ltd.,3,20181003,3,20181003,INR
+100000023,2,ajaz.khan@mxbyk.com,98516558,,http://www.mxbyk.com,1000000057,MX Bike,Ltd.,8,20181003,8,20181003,INR
+100000024,1,aditya.rajput@fitnessworld.co.in,98815759,,http://www.fitnessworld.co.in,1000000058,FitnessWorld,Ltd.,1,20181003,1,20181003,INR
+100000025,1,mudassir.k@homerundubai.com,90297998,,http://www.homerundubai.com,1000000059,Homerun Millwork Inc.,Inc.,5,20181003,5,20181003,AED
+100000026,1,rehanshehzad@antoniobikes.com,84534638,,http://www.antoniobikes.com,1000000060,Antonio Bandolera,Inc.,4,20181003,4,20181003,AED
+100000027,1,sarfaraz.khan@khancycles.ae,88475088,,http://www.khancycles.ae,1000000061,Khan Cycles,Inc.,6,20181003,6,20181003,AED
+100000028,1,alam.sheikh@palmbeachbikes.ae,97938280,,http://www.palmbeachbikes.ae,1000000062,Palm Beach Bike World,Inc.,7,20181003,7,20181003,AED
+100000029,1,bhushan.shetty@a2zfitnes.com,82533264,,http://www.a2zfitnes.com,1000000063,A to Z Fitness,Inc.,9,20181003,9,20181003,AED
+100000030,1,romain.le_mason@hudsonsport.ca,80500246,,http://www.hudsonsport.ca,1000000064,Hudson SportsTec,Ltd.,10,20181003,10,20181003,CAD
+100000031,2,anthony.lebouef@ebike36.ca,85472929,,http://www.ebike36.ca,1000000065,Ebike 36,Ltd.,3,20181003,3,20181003,CAD
+100000032,2,lisa.felske@wichitasport.com,94188504,,http://www.wichitasport.com,1000000066,Wichita Sport,Ltd.,1,20181003,1,20181003,CAD
+100000033,1,jonathan.d.mason@movebybike.ca,90929437,,http://www.movebybike.ca,1000000067,Move by Bike,Ltd.,1,20181003,1,20181003,CAD
+100000034,2,amelie.troyat@techcycletoronto.ca,85746733,,http://www.techcycletoronto.ca,1000000068,TechCycle,Ltd.,4,20181003,4,20181003,CAD
+100000035,2,sophie.ribery@yourcycleshop.fr,95219619,,http://www.yourcycleshop.fr,1000000069,YourCycleShop,S.A.R.L.,7,20181003,7,20181003,EUR
+100000036,1,jorge.velez@unolabmanufacturing.com,99508949,,http://www.unolabmanufacturing.com,1000000070,Unolab Manufacturing,S.A.R.L.,13,20181003,13,20181003,EUR
+100000037,2,joseph_gschwandtner@ebike201.fr,80080381,,http://www.ebike201.fr,1000000071,E bike 201,S.A.R.L.,4,20181003,4,20181003,EUR
+100000038,2,george_d_grant@thecyclefactor.fr,95558774,,http://www.thecyclefactor.fr,1000000072,The Cycle Factor,S.A.R.L.,3,20181003,3,20181003,EUR
+100000039,1,theodor.monathy@eiffelbikes.fr,84805442,,http://www.eiffelbikes.fr,1000000073,Eiffel Bikes,S.A.R.L.,9,20181003,9,20181003,EUR

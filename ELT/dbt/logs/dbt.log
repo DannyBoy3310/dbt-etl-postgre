@@ -1,0 +1,31 @@
+[0m20:00:31.541215 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10ec0ab80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x11068dd90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x11068d340>]}
+
+
+============================== 20:00:31.548678 | 089c4676-5e7d-43e6-9692-923e7dd75c09 ==============================
+[0m20:00:31.548678 [info ] [MainThread]: Running with dbt=1.8.7
+[0m20:00:31.549420 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/ranjithm/.dbt', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'invocation_command': 'dbt init', 'log_format': 'default', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m20:00:31.570088 [warn ] [MainThread]: [ConfigFolderDirectory]: Unable to parse logging event dictionary. Failed to parse dir field: expected string or bytes-like object.. Dictionary: {'dir': PosixPath('/Users/ranjithm/.dbt')}
+[0m20:00:31.570605 [info ] [MainThread]: Creating dbt configuration folder at 
+[0m20:00:55.084927 [debug] [MainThread]: Starter project path: /Users/ranjithm/PycharmProjects/data_transformation/pythonProject/.venv/lib/python3.9/site-packages/dbt/include/starter_project
+[0m20:00:55.103259 [info ] [MainThread]: 
+Your new dbt project "pg_transformation" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m20:00:55.104609 [info ] [MainThread]: Setting up your profile.
+[0m20:06:38.906123 [info ] [MainThread]: Profile pg_transformation written to /Users/ranjithm/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m20:06:38.914477 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 367.48148, "process_user_time": 1.75418, "process_kernel_time": 0.34985, "process_mem_max_rss": "89120768", "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m20:06:38.916555 [debug] [MainThread]: Command `dbt init` succeeded at 20:06:38.916210 after 367.48 seconds
+[0m20:06:38.918223 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10ec0ab80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10d3e0220>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1106df220>]}
+[0m20:06:38.919689 [debug] [MainThread]: Flushing usage events

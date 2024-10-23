@@ -1,0 +1,12 @@
+pg_transformation:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost  # or your PostgreSQL host (e.g., an IP or domain name)
+      user: postgres  # PostgreSQL username
+      password: Sherani@201020  # PostgreSQL password
+      port: 5432  # PostgreSQL default port
+      dbname: postgres  # Name of your database
+      schema: cde  # The schema to use (usually "public" or a custom schema)
+      threads: 4  # Number of threads to use
