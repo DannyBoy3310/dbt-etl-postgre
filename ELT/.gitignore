@@ -1,4 +1,4 @@
-
+dbt/logs/
 dbt/pg_transformation/target/
 dbt_packages/
 logs/
