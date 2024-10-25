@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: staging
+    schema: '{{ var("DATABASES")["staging"] }}'
+    tables:
+      - name: "addresses"
+      - name: "businesspartners"
+      - name: "employees"
+      - name: "productcategories"
+      - name: "productcategorytext"
+      - name: "products"
+      - name: "producttexts"
+      - name: "salesorderitems"
+      - name: "salesorders"
