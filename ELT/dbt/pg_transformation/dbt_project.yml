@@ -32,6 +32,23 @@ clean-targets:         # directories to be removed by `dbt clean`
 models:
   pg_transformation:
     # Config indicated by + and applies to all files under models/example/
-    example:
-      +materialized: view
+    BIKES:
+      +materialized: table
+
+seeds:
+  pg_transformation:
+    +quote_columns: false
+    schema: 'staging'
+
+vars:
+  DATABASES: {
+    'staging': 'cde_staging',
+    'target': 'cde'
+  }
+
+
+quoting:
+  database: false
+  schema: false
+  identifier: false
 
