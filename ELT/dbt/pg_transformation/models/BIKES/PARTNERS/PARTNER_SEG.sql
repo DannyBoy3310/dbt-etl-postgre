@@ -1,4 +1,4 @@
-{{ config(alias=get_table_name(), schema = var('DATABASES')['target'] , enabled=true) }}
+{{ config(alias=get_table_name(), schema = var('DATABASES')['target'] , enabled=enable()) }}
 
 select partnerid as p_id,
  partnerrole as p_role,
